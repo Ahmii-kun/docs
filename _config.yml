@@ -4,7 +4,7 @@ author: "AliAryanTech"
 
 theme: minima
 
-base_url: /docs
+base_url: /
 
 markdown: kramdown
 
@@ -23,10 +23,6 @@ minima:
 
 header_pages:
   - pages/frontpage.md
-  - pages/carbon.md
-  - pages/entertainment.md
-  - pages/misc.md
-  - pages/weeb.md
 
 include:
     - pages
